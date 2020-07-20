@@ -1,3 +1,7 @@
 test2
 git
+<<<<<<< Updated upstream
 master
+=======
+branch3
+>>>>>>> Stashed changes
